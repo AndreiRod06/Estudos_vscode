@@ -4,12 +4,13 @@ li{
 
 h1{
     font-size: 100px;
-    color: #000000;
-border: ;
+    color: #db7d10;
+    
 }
 
 body{
     background-image: url("https://www.aereo.jor.br/wp-content/uploads//2019/04/Falcon-Heavy-Flight-2-liftoff-Pauline-Acalin-6-2-crop-c-1024x508-1024x508.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
+    
 }
