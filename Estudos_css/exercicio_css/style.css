@@ -12,3 +12,17 @@ div#days-of-week ul li{
     
     color: azure;
 } 
+
+li {
+    color: white;
+}
+
+h2 {
+    border: 2px solid;
+    background-color: rgb(203, 206, 19);
+   
+}
+
+#astronomy-class{
+    color: #e74c3c;
+}
