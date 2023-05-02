@@ -1,8 +1,19 @@
 p{
-    font-family: Arial;
+    font-family: 'Sigmar', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+   
 }
 
 h1{
     color: blue;
-    font-family: Arial;
+    font-family: 'Geostar', cursive;
+    text-align: center;
+    font-size: 50px;
+    
+
 }
+
+
